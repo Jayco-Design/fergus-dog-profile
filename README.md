@@ -1,2 +1,2 @@
 # fergus-dog-profile
-Fergus Dog Profile
+Fergus Profile
